@@ -1,0 +1,20 @@
+body {
+    padding-top: 70px;
+    overflow-x: hidden;
+}
+
+.list-group-item {
+    text-align: center;
+}
+.menu {
+    background: #222222;
+}
+
+#sidenav {
+    position: fixed;
+}
+
+#upper_sidebar {
+    overflow-y: scroll;
+}
+
